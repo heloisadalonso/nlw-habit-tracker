@@ -45,8 +45,9 @@ input {
   background: #18181b;
 }
 
-form {
+#form-habits {
   display: flex;
+  padding: 0 48px;
 }
 
 .habits {
