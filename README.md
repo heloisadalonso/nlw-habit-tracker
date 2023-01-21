@@ -18,7 +18,7 @@ NLW exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias W
 <br>
 
 <p align="center">
-  <img alt="NLW Setup" src="./github/preview.jpg" width="100%">
+  <img alt="NLW Setup" src=".github/preview.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
