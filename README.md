@@ -18,7 +18,7 @@ NLW exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias W
 <br>
 
 <p align="center">
-  <img alt="NLW Setup" src="./github/cover.png" width="100%">
+  <img alt="NLW Setup" src="./github/preview.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -35,7 +35,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 O DevLinks é um aplicativo rastreador de hábitos que ajuda a monitorar diariamente os hábitos desejados.
 
 - [Acesse o projeto finalizado, online](https://maykbrito.github.io/devlinks)
-
 
 ## 🔖 Layout
 
