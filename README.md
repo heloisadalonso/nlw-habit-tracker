@@ -1,7 +1,7 @@
-<h1 align="center"> DevLinks </h1>
+<h1 align="center"> Habit Tracker </h1>
 
 <p align="center">
-Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
+NLW exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 <br>
 
 <p align="center">
-  <img alt="projeto DevLinks" src=".github/preview.jpg" width="100%">
+  <img alt="NLW Setup" src="./github/cover.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -32,28 +32,14 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O DevLinks é um agregador de links para usar como cartão de visitas online.
+O DevLinks é um aplicativo rastreador de hábitos que ajuda a monitorar diariamente os hábitos desejados.
 
 - [Acesse o projeto finalizado, online](https://maykbrito.github.io/devlinks)
 
-- [Assistir aulas](https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito)
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1187422022288947321). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
-
-## 💻 Telas
-
-<p align="center">
-  <img alt="projeto DevLinks" src=".github/darkmode-mobile.png" width="40%" height="600px">
-  <img alt="projeto DevLinks" src=".github/lightmode-mobile.png" width="40%" height = "600px">
-</p>
-<p align="center">
-  <img alt="projeto DevLinks" src=".github/darkmode-desktop.png" width="100%">
-</p>
-<p align="center">
-  <img alt="projeto DevLinks" src=".github/lightmode-desktop.png" width="100%">
-</p>
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1195327109778210238). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
