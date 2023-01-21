@@ -32,9 +32,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O DevLinks é um aplicativo rastreador de hábitos que ajuda a monitorar diariamente os hábitos desejados.
+O Habits é um aplicativo rastreador de hábitos que ajuda a monitorar diariamente os hábitos desejados.
 
-- [Acesse o projeto finalizado, online](https://maykbrito.github.io/devlinks)
+- [Acesse o projeto finalizado, online](https://heloisadalonso.github.io/nlw-habit-tracker/)
 
 ## 🔖 Layout
 
