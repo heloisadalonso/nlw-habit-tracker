@@ -46,7 +46,7 @@ Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figm
   <img alt="Tela mobile" src=".github/mobile.png" width="50%">
 </p>
 <p align="center">
-  <img alt="Tela mobile" src=".github/preview.jpg" width="100%">
+  <img alt="Tela mobile" src=".github/desktop.png" width="100%">
 </p>
 
 ## :memo: Licença
