@@ -40,6 +40,15 @@ O Habits é um aplicativo rastreador de hábitos que ajuda a monitorar diariamen
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1195327109778210238). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
+## 💻 Telas
+
+<p align="center">
+  <img alt="Tela mobile" src=".github/mobile.png" width="50%">
+</p>
+<p align="center">
+  <img alt="Tela mobile" src=".github/desktop.png" width="100%">
+</p>
+
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT.
